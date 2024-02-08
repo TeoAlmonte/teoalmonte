@@ -16,7 +16,7 @@
 🚀 **Continuous Learning:** In this fast-paced tech landscape, I'm a perpetual learner. Whether it's diving into new frameworks, attending conferences, or devouring the latest tech blogs, I'm always hungry for knowledge.
 
 
-#### Currently using: Next.js, React, Node, Gatsby, Vue, TypeScript, Shopify, Contentful, Cloudflare, Netlify, Sentry, Growthbook
+#### Currently using: Next, Gatsby, TypeScript, React, Vue, Styled Components/Emotion, StyleX, Node, Shopify, Contentful, Cloudflare, Netlify, Sentry, Growthbook
 
 ---
 
